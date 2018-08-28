@@ -1,2 +1,2 @@
 # JsonService
-read a properties and Xml file and converted into JSON file
+read a properties,csv and Xml file and converted into JSON file
